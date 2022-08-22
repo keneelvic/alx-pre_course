@@ -1,1 +1,1 @@
-How to be up to date in git
+My first README file fro the CLI
